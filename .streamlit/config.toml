@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#FF6B35"      # Vibrant orange
+backgroundColor = "#FEF8F4"   # Soft off-white with a touch of orange
+secondaryBackgroundColor = "#FFA580" # Lighter shade of orange
+textColor = "#3B3B3B"        # Dark gray for text to ensure readability on light backgrounds
+font = "monospace"          # Sans

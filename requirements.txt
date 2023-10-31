@@ -1,0 +1,5 @@
+streamlit-option-menu==0.3.6
+sqlalchemy==2.0.22
+plotly==5.10.0
+psycopg2-binary==2.9.9
+psycopg2==2.9.9
